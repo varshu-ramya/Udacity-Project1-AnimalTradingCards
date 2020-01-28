@@ -1,0 +1,22 @@
+/* add your CSS here */
+.main{
+	width:350px;
+	border: 2px solid orange;
+	padding:20px 20px 20px 20px;
+	}
+h3{
+	font-weight: bold;
+}
+.child{
+	border: 2px solid orange;
+	padding:30px 30px 30px 30px;
+}
+#one{
+	font-style: italic;
+}
+ul{
+	list-style-type: none;
+}
+span{
+	font-weight: bold;
+}
